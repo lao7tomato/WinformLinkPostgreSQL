@@ -1,0 +1,2 @@
+# WinformLinkPostgreSQL
+通过winform窗体程序实现对PostgreSQL中shp数据的导入导出与展示
